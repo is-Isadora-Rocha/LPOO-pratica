@@ -1,0 +1,20 @@
+classe -- contas do banco
+atributos:
+    numero
+    limite
+    saldo
+métodos:
+    depositar()
+    sacar()
+    verSaldo()
+
+obj Conta -- atribuir numero, saldo e limite
+fazer depósito de R$ 1000, um saque de R$ 300 e obter o saldo.
+
+criar classe que represente os funcionários do banco.
+atributos: nome e salario.
+salário inicial de R$200,00 (utilizar construtor)
+criar métodos para alterar o nome e o salário do funcionário
+
+obj Funcionário e atribuir um nome.
+Implementar códigos que alterem o nome e o salário do funcionário.
